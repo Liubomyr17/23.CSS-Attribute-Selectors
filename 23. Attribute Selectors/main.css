@@ -1,0 +1,9 @@
+a[href] {
+    background-color: red;
+}
+a[href="index.html"] {
+    background-color: yellow;
+}
+a[href$=com] {
+    background-color: pink;
+}
